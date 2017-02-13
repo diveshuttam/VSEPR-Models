@@ -2,7 +2,9 @@
 
 Copyright (c) 2017 Divesh Uttamchandani    
 <diveshuttamchandani@gmail.com>  
-[BITS-Pilani](http://www.bits-pilani.ac.in/spp/f2016045) | [GitHub](https://github.com/diveshuttam) | [LinkedIn](https://www.linkedin.com/in/diveshuttam/) 
+http://www.bits-pilani.ac.in/spp/f2016045 | 
+https://github.com/diveshuttam)           |
+https://www.linkedin.com/in/diveshuttam/  | 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

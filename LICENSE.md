@@ -1,7 +1,9 @@
-MIT License
+#MIT License
 
-#Copyright (c) 2017 Divesh Uttamchandani
+Copyright (c) 2017 Divesh Uttamchandani:
+
 <diveshuttamchandani@gmail.com>
+#Profiles:
 <https://github.com/diveshuttam>
 <http://www.bits-pilani.ac.in/spp/f2016045>
 

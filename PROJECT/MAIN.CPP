@@ -8,9 +8,9 @@
 /***************Give graphics/bgi and header file path here***************/
 #define bgi_loc    	    "g:/bgi"
 #define functions  	    "g:/bin/prjf/func.h"
-#define shape 	   	    "g:/bin/prjf/shapes.h"
+#define shape      	    "g:/bin/prjf/shapes.h"
 #define my_graphics	    "g:/bin/prjf/graph.h"
-#define fonts_styles	    "g:/bin/prjf/styles.h"
+#define fonts_styles    "g:/bin/prjf/styles.h"
 /*************************************************************************/
 
 

@@ -13,5 +13,10 @@ The working and design of this project is similar to [AED](https://github.com/di
 Demo Run for XeO<sub>2</sub>F<sub>2</sub>  
 </h3>
 <p align="center">
-  <img width="720" height="540" src="/Demo/demo.gif">
+  <img src="/Demo/demo.gif">
 </p>
+  
+  
+
+### Watch the extended demo video on YouTube:  
+[Shapes Of Molecules | Class XI CS Project](https://youtu.be/QjlbObuqWrU)

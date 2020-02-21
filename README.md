@@ -13,7 +13,7 @@ The working and design of this project is similar to [AED](https://github.com/di
 Demo Run for XeO<sub>2</sub>F<sub>2</sub>  
 </h3>
 <p align="center">
-  <img src="/Demo/demo.gif">
+  <img src="./Demo/demo.gif">
 </p>
   
   
